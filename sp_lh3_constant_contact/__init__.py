@@ -46,9 +46,12 @@ def check_operator_response(chat_id, constant_contact=5):
                 sender_type = "Operator"
                 current_time = datetime.strptime(time, "%H:%M%p")
                 previous_operator_time = current_time
-                time_difference = (
-                    current_time - previous_student_time
-                ).total_seconds() / 60
+                try:
+                    time_difference = (
+                        current_time - previous_student_time
+                    ).total_seconds() / 60
+                except:
+                    time_difference = 0
                 if time_difference >= constant_contact:
                     print(
                         f"Operator took more than {constant_contact} minutes to reply after previous student message."
