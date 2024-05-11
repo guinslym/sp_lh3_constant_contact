@@ -10,7 +10,7 @@
 ## SP LibraryH3lp constant Contact
 
 <p>
-This script will assess a transcript to check if the operator has taken  see ```example.py```.
+This script will assess a transcript to check if the operator has taken more than 5 min to reply to any message from the patron see ```example.py```.
 </p>
 
 ## Installation & Usage
