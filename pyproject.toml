@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sp-lh3-constant-contact"
-version = "0.1.0"
+version = "0.1.2"
 description = ""
 authors = ["Guinslym <guinslym@gmail.com>"]
 readme = "README.md"
