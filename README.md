@@ -15,7 +15,7 @@ This script will assess a transcript to check if the operator has taken  see ```
 
 ## Installation & Usage
 
-**need credentials to connect to db** need a secrets.json file
+**need credentials to connect to LibraryH3lp - see lh3api package on GitLab** 
 
 ```python 
 #using poetry
@@ -28,10 +28,6 @@ To run an example of the app
 ```python 
 poetry run python
 ```
-
-
-
-
 
 ### TODO
 1. Create Click application
