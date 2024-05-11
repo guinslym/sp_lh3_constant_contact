@@ -1,9 +1,9 @@
 [
-![PyPI](https://img.shields.io/pypi/v/ask_schools.svg)
-![PyPI](https://img.shields.io/pypi/pyversions/ask_schools.svg)
-![PyPI](https://img.shields.io/github/license/guinslym/ask_schools.svg)
-](https://pypi.org/project/ask_schools/)
-[![TravisCI](https://travis-ci.org/guinslym/ask_schools.svg?branch=master)](https://travis-ci.org/guinslym/ask_schools)
+![PyPI](https://img.shields.io/pypi/v/sp-lh3-constant-contact.svg)
+![PyPI](https://img.shields.io/pypi/pyversions/sp-lh3-constant-contact.svg)
+![PyPI](https://img.shields.io/github/license/guinslym/sp-lh3-constant-contact.svg)
+](https://pypi.org/project/sp-lh3-constant-contact/)
+[![TravisCI](https://travis-ci.org/guinslym/sp-lh3-constant-contact.svg?branch=master)](https://travis-ci.org/guinslym/sp-lh3-constant-contact)
 
 <hr/>
 
